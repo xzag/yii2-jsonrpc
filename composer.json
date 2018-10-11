@@ -1,5 +1,5 @@
 {
-  "name": "georgique/yii2-jsonrpc",
+  "name": "xzag/yii2-jsonrpc",
   "description": "Yii2 JSON-RPC server implementation",
   "keywords": ["yii2", "bootstrap", "json-rpc"],
   "type": "yii2-extension",
@@ -7,6 +7,10 @@
     {
       "name": "George Shestayev",
       "email": "george.shestayev@gmail.com"
+    },
+    {
+      "name": "Aleksandr Goryachkin",
+      "email": "alexgoryachkin@gmail.com"
     }
   ],
   "autoload": {
